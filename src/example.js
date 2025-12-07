@@ -1,4 +1,3 @@
-console.log("Hello World")
-let unusedVar
-const name = "test"
-console.log(`Name is ${name}`)
+console.log('Hello World');
+const name = 'test';
+console.log(`Name is ${name}`);
